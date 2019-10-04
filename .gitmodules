@@ -4,3 +4,6 @@
 [submodule "lib/mbed-edge"]
 	path = lib/mbed-edge
 	url = https://github.com/ARMmbed/mbed-edge
+[submodule "lib/meta"]
+	path = lib/meta
+	url = https://github.com/ARMmbed/meta-mbed-edge.git
